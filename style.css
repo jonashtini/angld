@@ -13,6 +13,9 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+
     font-family: Staatliches, sans-serif;
     align-items: center;
     align-content: center;
+            display: flex;
+        align-items: center;
+        justify-content: center;
 }
 
 h1 {
